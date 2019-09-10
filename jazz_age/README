@@ -1,0 +1,5 @@
+JazzAge
+----------------
+Requirements - 
+Django==2.1.8
+sqlite3==3.27.2
