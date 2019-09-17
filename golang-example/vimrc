@@ -1,0 +1,3 @@
+autocmd BufNewFile,BufRead *.go set ft=go
+filetype indent on
+syntax on
