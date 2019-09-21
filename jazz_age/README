@@ -3,6 +3,7 @@ JazzAge
 Requirements - 
 Django==2.1.8
 sqlite3==3.27.2
+mysql==5.7.0
 
 Redis
 ----------------
