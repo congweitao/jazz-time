@@ -1,0 +1,4 @@
+mv vimrc ~/.vimrc
+mkdir -p ~/.vim
+mv syntax ~/.vim
+
