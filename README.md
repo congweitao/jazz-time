@@ -7,8 +7,9 @@ Problem
 ------------
 # How to write a QT program when doing a time consuming task in the background with a progressing bar in the frontend?
 
+# OCR + QT
 ![MainWinow](https://github.com/congweitao/jazz-time/blob/master/ocr-qt/sample.jpg)  
-
+# CG: image feature extraction and feature matching
 ![Feature Matching](https://github.com/congweitao/jazz-time/blob/master/123.jpg)
-
-![Home Website]()
+# Company Website
+![Home Website](https://github.com/congweitao/jazz-time/blob/master/uniwing_website/homesite.jpg)
