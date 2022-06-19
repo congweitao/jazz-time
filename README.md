@@ -8,4 +8,7 @@ Problem
 # How to write a QT program when doing a time consuming task in the background with a progressing bar in the frontend?
 
 ![MainWinow](https://github.com/congweitao/jazz-time/blob/master/ocr-qt/sample.jpg)  
+
 ![Feature Matching](https://github.com/congweitao/jazz-time/blob/master/123.jpg)
+
+![Home Website]()
